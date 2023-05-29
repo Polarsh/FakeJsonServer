@@ -1,0 +1,28 @@
+{
+  "technicals": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "urlImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "information": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "urlImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "information": "Praesent eu sem id magna gravida gravida.",
+      "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": "3",
+      "name": "David Johnson",
+      "email": "david@example.com",
+      "urlImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "information": "Nullam id erat vitae tortor molestie vestibulum.",
+      "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}
