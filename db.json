@@ -24,5 +24,47 @@
       "information": "Nullam id erat vitae tortor molestie vestibulum.",
       "experience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
+  ],
+
+  "reports": [
+    {
+      "id": "1",
+      "clientId": "1",
+      "electricalApplianceId": "1",
+      "title": "Mi lavadora no lava",
+      "description": "Hace 2 días que mi lavadora suena raro, como si tuviera piedras dentro"
+    },
+    {
+      "id": "2",
+      "clientId": "1",
+      "electricalApplianceId": "2",
+      "title": "Mi secadora no seca",
+      "description": "Hace 2 días que mi secadora suena raro, como si tuviera piedras dentro"
+    },
+    {
+      "id": "3",
+      "clientId": "1",
+      "electricalApplianceId": "3",
+      "title": "Mi refrigerador no enfria",
+      "description": "Hace 2 días que mi refrigerador suena raro, como si tuviera piedras dentro"
+    }
+  ],
+
+  "electricalAppliances": [
+    {
+      "id": "1",
+      "name": "Lavadora",
+      "urlImage": "https://home.ripley.com.pe/Attachment/WOP_5/2003227769987/2003227769987-3.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Secadora",
+      "urlImage": "https://www.sincable.mx/wp-content/uploads/2019/10/Secadoras-de-ropa-0.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Refrigerador",
+      "urlImage": "https://electroluxpe.vtexassets.com/arquivos/ids/157103/Refrigerator_ERQU40E2HSS_FrontView_Electrolux_1000x1000.jpg?v=637419358117270000"
+    }
   ]
 }
